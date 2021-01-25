@@ -190,6 +190,8 @@
     height: 170px;
     border: 1px solid rgb(176, 176, 176);
     border-radius: 0.67em;
+    background-color: #fff;
+    z-index: 100;
 }
 
 .box-input-text {
